@@ -2,13 +2,6 @@
 Sending and Receiving emails with different email boxes.
 
 
-/////////////////////
-/                   /
-/    DesktopEmail   /
-/                   /
-/////////////////////
-
-
 Hi guys,
 This Project is DesktopEmail where you can
 check your e-mail from different e-mail boxes.
