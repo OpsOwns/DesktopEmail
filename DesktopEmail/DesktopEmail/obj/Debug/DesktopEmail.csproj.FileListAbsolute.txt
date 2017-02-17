@@ -1,0 +1,21 @@
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\bin\Debug\DesktopEmail.exe.config
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\bin\Debug\DesktopEmail.exe
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\bin\Debug\DesktopEmail.pdb
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.csprojResolveAssemblyReference.cache
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.Form1.resources
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.Properties.Resources.resources
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.csproj.GenerateResource.Cache
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.exe
+c:\users\krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.pdb
+C:\Users\Krzysztof\documents\visual studio 2015\Projects\DesktopEmail\DesktopEmail\bin\Debug\OpenPop.dll
+C:\Users\Krzysztof\Documents\Visual Studio 2015\Projects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.Form2.resources
+D:\GitHubProjects\DesktopEmail\DesktopEmail\bin\Debug\DesktopEmail.exe.config
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.exe
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.pdb
+D:\GitHubProjects\DesktopEmail\DesktopEmail\bin\Debug\DesktopEmail.exe
+D:\GitHubProjects\DesktopEmail\DesktopEmail\bin\Debug\DesktopEmail.pdb
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.csprojResolveAssemblyReference.cache
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.Form1.resources
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.Form2.resources
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.Properties.Resources.resources
+D:\GitHubProjects\DesktopEmail\DesktopEmail\obj\Debug\DesktopEmail.csproj.GenerateResource.Cache
