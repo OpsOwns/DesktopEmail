@@ -14,7 +14,7 @@ of webpages which is boring. Thanks it you can save
 some time.
 
 
-What I learned during this Project? 
+# What I learned during this Project? 
 I learned how to connect new library to project.
 What is nuget pack :). 
 Sending and receiving emails. 
@@ -22,9 +22,9 @@ Using tables what i want.
 What is Protcol SMTP.
 
 
-New Ideas: 
--Add attachments after receive emails.
--change table maybe to tree?
+# Future
+- Add attachments after receive emails.
+- change table maybe to tree?
 
 
 Thanks you for your attentions.
